@@ -1,0 +1,7 @@
+a=int(input("enter first value"))
+b=int(input("Enter two values"))
+print(f"addition is {a+b}")
+print(f"\nSubtraction is {a-b}")
+print(f"\nMultiplication is {a*b}")
+print(f"\nDivision is {a/b}")
+print(f"Floor division is {a//b}")
